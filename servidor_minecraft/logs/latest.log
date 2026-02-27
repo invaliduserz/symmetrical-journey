@@ -1,0 +1,1325 @@
+[21:17:07] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.18.2
+[21:17:07] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.10
+[21:17:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/symmetrical-journey/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:17:17] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:17:21] [main/INFO]: Loaded 1461 recipes
+[21:17:21] [main/INFO]: Loaded 1574 advancements
+[21:17:21] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[21:17:21] [Server thread/INFO]: Loading properties
+[21:17:21] [Server thread/INFO]: Default game type: SURVIVAL
+[21:17:21] [Server thread/INFO]: Generating keypair
+[21:17:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:17:21] [Server thread/INFO]: Using epoll channel type
+[21:17:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:17:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:17:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:17:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:17:21] [Server thread/INFO]: Preparing level "world"
+[21:17:22] [Server thread/INFO]: Loading 0 persistent chunks...
+[21:17:22] [Server thread/INFO]: Preparing spawn area: 100%
+[21:17:22] [Server thread/INFO]: Time elapsed: 14 ms
+[21:17:22] [Server thread/INFO]: Done (0.526s)! For help, type "help"
+[21:17:49] [Server thread/WARN]: UUID of added entity already exists: class_1481['Turtle'/27, l='ServerLevel[world]', x=-302.89, y=60.03, z=546.03]
+[21:17:49] [Server thread/INFO]: zShO[/100.77.228.72:55501] logged in with entity id 28 at (-256.78696108917353, 62.11072288096568, 526.5654425927664)
+[21:17:49] [Server thread/INFO]: zShO joined the game
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.736774302413437,0.0,9.988204669510878
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.7653757394625416,0.0,10.37594485826719
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.7940596147171846,0.0,10.7648026344134
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8228176843548738,0.0,11.154666239183939
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8516425289355141,0.0,11.545435089692319
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8805274709632158,0.0,11.937018661343131
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.7565033166618775,0.0,10.255664367272061
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.7829273708089488,0.0,10.613886498737315
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8067090189113344,0.0,10.936286408515343
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8281125016364683,0.0,11.226446319628963
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8473756355787998,0.0,11.487590232713274
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8647124556676147,0.0,11.722619748263014
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8803155933342168,0.0,11.93414630665427
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8943584168621612,0.0,12.124520204163218
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9069969577024892,0.0,12.295856707382313
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9183716441574745,0.0,12.45005955619456
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.92860886169575,0.0,12.588842116449086
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9378223572361435,0.0,12.713746417369293
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.946114503002832,0.0,12.826160285219544
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9535774339951502,0.0,12.927332763604682
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9602940717103081,0.0,13.018387991739132
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.966339045493811,0.0,13.100337694889163
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9717795217548257,0.0,13.174092425770368
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9766759502600451,0.0,13.240471681805047
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9810827357979974,0.0,13.300213010653692
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.985048842677088,0.0,13.353980205193125
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9886183387737049,0.0,13.402370678996704
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9918308851755455,0.0,13.445922104266174
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9947221768606198,0.0,13.485118385970395
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9973243393082498,0.0,13.520395038569632
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9996662854490808,0.0,13.552144025067832
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0017740369199828,0.0,13.580718112159275
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0036710131935536,0.0,13.606434789860373
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0053782917945284,0.0,13.629579799178146
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0069148424946945,0.0,13.650410307012407
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0082977380882312,0.0,13.669157763566545
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0095423440894251,0.0,13.686030474018366
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0106624894608274,0.0,13.70121591302268
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0146132028607724,0.0,13.754774423274512
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.021111427418873,0.0,13.842868696734172
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0299024119586022,0.0,13.962045156257545
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0407568804271534,0.0,14.109195582497136
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.053468484382421,0.0,14.281522578114505
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0678515102314634,0.0,14.476508485571458
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0837388157450505,0.0,14.691887413143945
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.100979972920868,0.0,14.925620058334061
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.1194395965603974,0.0,15.175871048942554
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.1389958399882403,0.0,15.440988550033694
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.1595390411993947,0.0,15.719485910204867
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.180970504392036,0.0,16.010025143228972
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.2032014033468101,0.0,16.311402061533727
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.22615179446845,0.0,16.622532896332586
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.2497497285231134,0.0,16.942442255743572
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.2739304512020624,0.0,17.27025228709624
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.2986356836289588,0.0,17.605172923008013
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.3238129748165193,0.0,17.946493102853424
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.346472536285063,0.0,18.25368125657667
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.3668661410665095,0.0,18.530150587603657
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.3852203848835813,0.0,18.778972978936395
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.401739203881334,0.0,19.002913125203463
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.4166061405854862,0.0,19.20445925150466
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.429986383264776,0.0,19.385850760370545
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.4420286013571229,0.0,19.549103114025115
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.4528665973531076,0.0,19.696030228421932
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.4626207934911122,0.0,19.828264627876138
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.4713995697827613,0.0,19.947275584232216
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.479300468235948,0.0,20.054385442115176
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.4864112766554456,0.0,20.15078431165614
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.4928110040634408,0.0,20.23754329194469
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.4985707585780688,0.0,20.315626372135853
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5037545375039088,0.0,20.3859011424463
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5084199384135673,0.0,20.449148434050244
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.512618799121043,0.0,20.506070994985862
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5163977736576442,0.0,20.557301298470747
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5197988506504885,0.0,20.60340857038568
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5228598198629584,0.0,20.64490511400993
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5256146920812057,0.0,20.682252002282326
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.528094077011957,0.0,20.71586420083713
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.530325523390502,0.0,20.746115178735067
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5323338250780125,0.0,20.7733410581219
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5341412965488814,0.0,20.79784434892099
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.535768020829579,0.0,20.81989731005592
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5372320726434054,0.0,20.83974497455165
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5385497192409616,0.0,20.857607872124504
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5397356011473278,0.0,20.87368447951428
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5408028948347976,0.0,20.888153425781752
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5417634591280773,0.0,20.90117547707746
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5426279669691212,0.0,20.912895322933196
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.543406024005435,0.0,20.92344318392395
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5441062753195922,0.0,20.932936258564155
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5447365014856302,0.0,20.94148002551401
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5453037050200464,0.0,20.949169415565166
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.545814188187478,0.0,20.956089866427874
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5462736230259964,0.0,20.962318272039283
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5466871143697176,0.0,20.967923836941054
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.547059256569213,0.0,20.972968845219043
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5473941845398826,0.0,20.977509352548964
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5476956197055074,0.0,20.98159580903757
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5479669113473733,0.0,20.985273619779946
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5482110738185781,0.0,20.988583649360407
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.548430820036856,0.0,20.99156267590388
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5486285916280735,0.0,20.99424379972197
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5488065860554343,0.0,20.99665681109434
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5489667810358299,0.0,20.99882852127189
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5491109565143688,0.0,21.000783060379945
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.549240714441595,0.0,21.002542145530583
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.549357496573009,0.0,21.004125322124196
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5494626004885106,0.0,21.00555018102068
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5495571940099637,0.0,21.006832553993604
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5496423281770149,0.0,21.007986689638642
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5497189489253174,0.0,21.00902541169171
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.549787907596965,0.0,21.00996026151472
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.549849970399805,0.0,21.01080162633309
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5499058269208774,0.0,21.011558854649593
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5499560977885096,0.0,21.01224036011638
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5500013415681906,0.0,21.012853715020242
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5500420609688206,0.0,21.013405734419052
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5500787084284298,0.0,21.013902551864817
+[21:18:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5501116911411827,0.0,21.01434968755416
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8229981198612109,0.0,11.157112343452923
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8230248358571259,0.0,11.157474523342103
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8230488802528271,0.0,11.157800485233793
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8230705202083755,0.0,11.15809385092848
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8230899961678517,0.0,11.158357880046765
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8231075245309114,0.0,11.158595506246911
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8231233000572615,0.0,11.15880936982137
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8231374980306043,0.0,11.159001847033323
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8231502762062632,0.0,11.159175076519432
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8231617765640635,0.0,11.159330983052769
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8231721268857939,0.0,11.159471298929134
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8231814421750983,0.0,11.159597583214463
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.823189825935259,0.0,11.159711239068315
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8231973713191962,0.0,11.159813529333974
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232041621645578,0.0,11.159905590570702
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232102739252412,0.0,11.159988445681506
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232157745096913,0.0,11.16006301527932
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232207250355827,0.0,11.160130127915522
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232251805087571,0.0,11.160190529286524
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232291904345175,0.0,11.160244890519039
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232327993675881,0.0,11.160293815626915
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232360474072777,0.0,11.160337848222866
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.823238970642933,0.0,11.1603774775582
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232416015549404,0.0,11.16041314395909
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232439693756817,0.0,11.160445243718982
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232461004142806,0.0,11.160474133502134
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.823248018348977,0.0,11.16050013430629
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232497444901696,0.0,11.16052353502937
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232512980171975,0.0,11.160544595679653
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232526961914743,0.0,11.160563550264328
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232539545483064,0.0,11.160580609390081
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232550870694126,0.0,11.160595962602883
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232561063383912,0.0,11.160609780494042
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232570236804406,0.0,11.160622216595812
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232578492882681,0.0,11.16063340908704
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232585923352929,0.0,11.160643482328851
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232592610775953,0.0,11.160652548246276
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232598629456618,0.0,11.160660707571765
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232604046268932,0.0,11.160668050964546
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232608921399844,0.0,11.160674660017776
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232613309017722,0.0,11.160680608165535
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232617257873756,0.0,11.160685961498416
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232620811843958,0.0,11.160690779497827
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232624010417169,0.0,11.160695115697195
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.823262688913303,0.0,11.160699018276546
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232629479977049,0.0,11.16070253059786
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232631811736724,0.0,11.160705691686985
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.823263391032043,0.0,11.16070853666713
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232635799045624,0.0,11.160711097149147
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232637498898328,0.0,11.160713401582939
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232639028765618,0.0,11.160715475573284
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232640405646237,0.0,11.160717342164503
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232641644838736,0.0,11.1607190220966
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232642760112014,0.0,11.160720534035477
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232643763857936,0.0,11.160721894780409
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232644667229181,0.0,11.160723119450836
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232645480263159,0.0,11.160724221654164
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.823264621199371,0.0,11.160725213637079
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.823264687055115,0.0,11.160726106421748
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232647463252931,0.0,11.160726909927916
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232647996684648,0.0,11.160727633083411
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232648476773079,0.0,11.16072828392339
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232648908852696,0.0,11.16072886967936
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232649297724208,0.0,11.160729396859665
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.823264964770857,0.0,11.160729871321905
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232649962694438,0.0,11.160730298337967
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232650246181947,0.0,11.160730682652456
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232650501320506,0.0,11.160731028535452
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232650730945181,0.0,11.160731339830136
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232650937607389,0.0,11.160731619995317
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232651123603318,0.0,11.16073187214397
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232651290999797,0.0,11.16073209907779
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232651441656458,0.0,11.160732303318241
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232651577247623,0.0,11.160732487134624
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232651699279643,0.0,11.160732652569322
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232651809108518,0.0,11.16073280146054
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232651907954391,0.0,11.160732935462647
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232651996915763,0.0,11.1607330560646
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652076980855,0.0,11.160733164606313
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652149039552,0.0,11.160733262293888
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652213892209,0.0,11.160733350212695
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.82326522722596,0.0,11.160733429339643
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652324790308,0.0,11.160733500553874
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652372068117,0.0,11.160733564646648
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652414617974,0.0,11.160733622330099
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652452912816,0.0,11.160733674245307
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652487378118,0.0,11.160733720968892
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652518397003,0.0,11.160733763020176
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652546313943,0.0,11.160733800866296
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652571439303,0.0,11.160733834927782
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652594052183,0.0,11.160733865583211
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652614403548,0.0,11.160733893173074
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652632719919,0.0,11.16073391800387
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.823265264920451,0.0,11.160733940351633
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652664040643,0.0,11.160733960464654
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652677393162,0.0,11.160733978566327
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652689410429,0.0,11.160733994857878
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652700226026,0.0,11.160734009520297
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652709960178,0.0,11.160734022716383
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652718720885,0.0,11.160734034592906
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652726605352,0.0,11.160734045281743
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.82326527337014,0.0,11.160734054901695
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652740088042,0.0,11.16073406355963
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652745835765,0.0,11.16073407135184
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.82326527510088,0.0,11.16073407836484
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.823265275566456,0.0,11.160734084676506
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652759854773,0.0,11.160734090356982
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8232652763626049,0.0,11.16073409546948
+[21:18:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.823265276702017,0.0,11.160734100070727
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.5968087931615855,0.0,9.743452514154228
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.6040162708329717,0.0,10.136803957194502
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.604440386765191,0.0,10.530357553427507
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.5983769123320144,0.0,10.924032495682468
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.5861342153085047,0.0,11.317759533203457
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.568024296796125,0.0,11.711479540336086
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.5443585382209903,0.0,12.105142600874728
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.5154476599249165,0.0,12.498707712966393
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.4815941695206334,0.0,12.892140966352258
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.443093113781515,0.0,13.285415216913293
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.400229007699977,0.0,13.678508966746449
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.353276837374551,0.0,14.071406056587989
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.3024992196225753,0.0,14.464094550804134
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.2481476044496276,0.0,14.856566486391444
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.1904633609973985,0.0,15.248817620999716
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.12967127730775,0.0,15.640845496244992
+[21:18:29] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.0659886792581688,0.0,16.032651043726673
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.7342895778767229,0.0,10.210598636604914
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.8724333330843024,0.0,10.57887522773467
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.020107514941685,0.0,10.942802986404786
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.1770328011697586,0.0,11.302321753312981
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.342883886376569,0.0,11.657413051018011
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.5172966359187967,0.0,12.008099702510094
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.6998861361068123,0.0,12.354435193084669
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.890256371702037,0.0,12.696498003858324
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.0880027926606033,0.0,13.034391002771258
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.292720214000667,0.0,13.368235537658848
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.5040067703619684,0.0,13.69816827323416
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.721470080949871,0.0,14.02433547403632
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.944729767461155,0.0,14.346890183665096
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.173416816353466,0.0,14.66599217644864
+[21:18:34] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.407175692684746,0.0,14.981805159092687
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.622177509837968,0.0,8.445458877808846
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.894991962857688,0.0,8.733662581515432
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.169700295887111,0.0,9.020407321444054
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.4461550601982935,0.0,9.305794202979314
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.724218258302102,0.0,9.58991976792231
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.0037630232910715,0.0,9.872876471338031
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.284669912978984,0.0,10.15474748552981
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.566828791895574,0.0,10.435613257229534
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.850137906202605,0.0,10.715548978736365
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.134505656958993,0.0,10.994622304491259
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.41984438412564,0.0,11.272899741227207
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.70607517876823,0.0,11.550441135689198
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.993124417007209,0.0,11.827303158815084
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.280925826176883,0.0,12.103536806997113
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.56941456409973,0.0,12.379193615213808
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.858534861894299,0.0,12.65431713931207
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 10.148233927315943,0.0,12.928949399597741
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 10.438461656406389,0.0,13.203131036252444
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 10.729175539093177,0.0,13.47689579794337
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.020334727235337,0.0,13.750276882240314
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.311899866567614,0.0,14.023306996313181
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.603838121740978,0.0,14.296012743530923
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.896117355590661,0.0,14.568420898145405
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 12.188708640943844,0.0,14.840555555120204
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 12.481583359856842,0.0,15.112441233005256
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 12.774718337807201,0.0,15.384097161686213
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 13.068090134236456,0.0,15.655543483005658
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 13.361677650779882,0.0,15.926798326484231
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 13.655464484261216,0.0,16.19787517001862
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 13.949433288333381,0.0,16.468788980524323
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 14.243568447559142,0.0,16.73955322636209
+[21:18:36] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 14.537853326419167,0.0,17.01018286400233
+[21:18:40] [Server thread/INFO]: elmiam0r[/100.92.35.80:61518] logged in with entity id 631 at (-138.83267933344118, 45.0, 706.3106625198706)
+[21:18:40] [Server thread/INFO]: elmiam0r joined the game
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.35339388864773,0.0,7.028037669750233
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.532240713212644,0.0,7.371988821039736
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.698620277639435,0.0,7.721175772419997
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.852656404229066,0.0,8.075212403243881
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.994571771614716,0.0,8.433710103810313
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.124664212723019,0.0,8.796287609441492
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.243292507673772,0.0,9.162577355208214
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.350863255769383,0.0,9.532229932308383
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.447814984483188,0.0,9.904916988671516
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.534611353951277,0.0,10.280332684662653
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.61172726642161,0.0,10.658194280509292
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.679643967610502,0.0,11.03824203541194
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.7388445943987,0.0,11.420238688334848
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.789806311966117,0.0,11.803968394671756
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.83300088395373,0.0,12.189235843749998
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.86888369832738,0.0,12.575864458756996
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.897899195428522,0.0,12.963695573885161
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.920478099610875,0.0,13.352587056738571
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.937031115344553,0.0,13.742411513430056
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.947954716428171,0.0,14.133055604491801
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.953621091902534,0.0,14.524417860847166
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.95438818110415,0.0,14.916408539852796
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.950593449683709,0.0,15.308947890136096
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.94255591928001,0.0,15.701965327556309
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.930577995157762,0.0,16.095398678669085
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.914943306628913,0.0,16.489193008105303
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.895918573472443,0.0,16.883299991621357
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.873751483122192,0.0,17.277676860105203
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.848676390903904,0.0,17.672286387956092
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.820911842274427,0.0,18.067095910324156
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.790662148220974,0.0,18.46207690428878
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.75811880405189,0.0,18.857204615643468
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.723457966977776,0.0,19.25245719773659
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.686841988058916,0.0,19.647815435617076
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.648424588891515,0.0,20.043263026756563
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.60834792429256,0.0,20.438785779442355
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.56674373664967,0.0,20.83437141659715
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.52373439530163,0.0,21.230009391765634
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.479430035910099,0.0,21.625690190786713
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.433937378297458,0.0,22.021406305172718
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.387352471232646,0.0,22.41715096610892
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.339761760933726,0.0,22.812918066761313
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.291246846928374,0.0,23.2087026436958
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.241884965791684,0.0,23.60450076626364
+[21:18:48] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0296695332447428,0.0,17.310615972897267
+[21:18:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.125199749151875,0.0,10.123938740517474
+[21:18:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.194370905653159,0.0,10.516354431335344
+[21:18:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.2564562074818184,0.0,10.909528188918898
+[21:18:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.3110446566617497,0.0,11.303363806883794
+[21:18:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.3578822146957634,0.0,11.697750131196926
+[21:18:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.396841072739278,0.0,12.092570012972715
+[21:18:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.4278994049418543,0.0,12.487706924302643
+[21:18:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.451115372123496,0.0,12.883048710854382
+[21:18:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.466618914023769,0.0,13.278491378993522
+[21:18:58] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.3861290483490905,0.0,8.194805777108058
+[21:19:05] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.375390580354889,0.0,7.933007818838746
+[21:19:05] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.614853392348323,0.0,8.23097545991925
+[21:19:05] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.85596732398443,0.0,8.529883483973435
+[21:19:05] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.099569753780031,0.0,8.82877452410537
+[21:19:07] [Server thread/INFO]: elmiam0r has made the advancement [Acquire Hardware]
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.02965521609616,0.0,-8.206942443159619
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.02965521609616,0.0,-8.206942443159619
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.02965521609616,0.0,-8.206942443159619
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.02965521609616,0.0,-8.206942443159619
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.959063846818253,0.0,-8.14790555270281
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.895531616151175,0.0,-8.094772352699238
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.838352610065527,0.0,-8.046952473962733
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.7868915059517,0.0,-8.003914584240079
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.740576513476185,0.0,-7.965180484515713
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.698893021352461,0.0,-7.930319795687296
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.661377879434923,0.0,-7.898945176572852
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.627614252603564,0.0,-7.870708020117945
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.59722698926032,0.0,-7.845294579981783
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.5698784529759,0.0,-7.822422484465051
+[21:19:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.545264770971954,0.0,-7.8018375990453706
+[21:19:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.523112457755246,0.0,-7.78331120265841
+[21:19:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.503175376388356,0.0,-7.766637446351865
+[21:19:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.485232003633485,0.0,-7.751631066073514
+[21:19:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.469082968581915,0.0,-7.738125324180714
+[21:19:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.454548837420532,0.0,-7.725970156799235
+[21:19:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.441468119721804,0.0,-7.715030506445714
+[21:19:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.429695474104818,0.0,-7.705184821388343
+[21:19:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.4191000933302,0.0,-7.69632370507145
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.409564250885666,0.0,-7.688348700597544
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.400981992912932,0.0,-7.68117119676117
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.393257960942094,0.0,-7.674711443479509
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.38630633235249,0.0,-7.668897665680106
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.380049866787601,0.0,-7.663665265799182
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.363039071171471,0.0,-7.620609059208846
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.33646339872584,0.0,-7.543477773209247
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.301382408693655,0.0,-7.435648812482782
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.269809518501091,0.0,-7.338602750399787
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.241393918080519,0.0,-7.251261296838834
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.215819878379506,0.0,-7.172653990716412
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.19280324325831,0.0,-7.101907417080383
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.161308924927283,0.0,-6.99971530417929
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.122240099083427,0.0,-6.869206746734562
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.076402254277042,0.0,-6.71320005333655
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.024520346947952,0.0,-6.53423176125375
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.966568034103034,0.0,-6.334777440882931
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.578290698551541
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.505864130384225
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.438626442141839
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.375741601267691
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.316425053439815
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.2599519254881955
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.205664893006286
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.152981346184447
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.105566155300863
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.062892484636109
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.024486182055256
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.989920510648176
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.9588114072059
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.9308132148495645
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.905614842396375
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.8829363077892936
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.862525627183601
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.839177665227112
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.813186016945792
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.784823788237873
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.754348849933791
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.722011496390735
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.688063246507568
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.652765651722831
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.6163982911992605
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.579265085992773
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.541699341520257
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.50406587970852
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.466761278055202
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.430210951581614
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.394864526342332
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.361187704773727
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.329652508517171
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.300726392404044
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.274857282524096
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.252461992457398
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.232306231931318
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.214166047938392
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.197839882777259
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.183146334521467
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.169922141441589
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.158020367984989
+[21:19:18] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.1473087721578
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.13766833616873
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.128991944008391
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.121183191270944
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.114155313993422
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.107830224611206
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.138992242989218
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.204843597410985
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.30281125968483
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.430292258540533
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.584720566391837
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.763615734119952
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 4.964615940992161
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.185499134167117
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.424195538716361
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.6787931461688
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 5.947537617608077
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 6.228829182700309
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 6.521216246463496
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 6.823387631153878
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 7.1339904568911265
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.775210921558283,0.0,-2.799017872843365
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 10.098466732516755,0.0,-2.8407577424735564
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 10.426181119279875,0.0,-2.8940374723191553
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 10.757275427724352,0.0,-2.95910876222365
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.090797618550965,0.0,-3.036033169421785
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.323627620085404,0.0,-3.124723597481534
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.323627620085404,0.0,-3.224977363442804
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.323627620085404,0.0,-3.337086209458107
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.355837970122025,0.0,-3.461701107812246
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.415357297531045,0.0,-3.599698627261205
+[21:19:19] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.497336123880814,0.0,-3.75205292344981
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.597472632098004,0.0,-3.91926138639883
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.711986490059076,0.0,-4.101451979465537
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.837589607030338,0.0,-4.298467709272359
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 11.971442685579774,0.0,-4.509942251897542
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 12.1111171204019,0.0,-4.735356425203918
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 12.254551189144308,0.0,-4.974086540340636
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 12.400012615320236,0.0,-5.225440184391346
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 12.54670167419178,0.0,-5.488416966577574
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 12.69459774246954,0.0,-5.761810573404773
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 12.844309065363262,0.0,-6.044255449147386
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 12.996303841523712,0.0,-6.33454293376974
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 13.150936141180352,0.0,-6.631604470667753
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 13.308462048242149,0.0,-6.934498929976257
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 13.469054016824657,0.0,-7.242400651928392
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 13.633429375856792,0.0,-7.554243612238679
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 13.80271199275245,0.0,-7.868731242853187
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 13.978295780871434,0.0,-8.184333785553804
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 14.16172950984648,0.0,-8.499269707052576
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 14.3545925209865,0.0,-8.811498818518658
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 14.558384821331828,0.0,-9.11871603658733
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 14.774417150760655,0.0,-9.41836284313581
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 15.003711923178003,0.0,-9.70765067857576
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 15.246915394203654,0.0,-9.98359651885994
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 15.504218936193638,0.0,-10.243077506368309
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 15.775293270782669,0.0,-10.482907913957774
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 16.05921675002267,0.0,-10.700618387277814
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 16.35469023598384,0.0,-10.89441509606695
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 16.660202347822292,0.0,-11.063095714082237
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 16.97415229709469,0.0,-11.205975918864965
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 17.294938918536445,0.0,-11.322810006040754
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 17.621022879113696,0.0,-11.41371527219485
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 17.950965101424742,0.0,-11.479096282570026
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 18.283452176821072,0.0,-11.519585757931964
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 18.61730723805556,0.0,-11.535987551533594
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 18.95149686501631,0.0,-11.529235982714113
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 19.285517782411432,0.0,-11.500927196761154
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 19.61934630024075,0.0,-11.453156381797271
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 19.953350192900444,0.0,-11.388397892357148
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 20.288185701258442,0.0,-11.309426285625705
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 20.624344911877074,0.0,-11.218645925626674
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 20.962190322061986,0.0,-11.118138487376882
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 21.30197843076934,0.0,-11.009697341759647
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 21.64387978577949,0.0,-10.894859565480147
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 21.988000714190235,0.0,-10.774946073044589
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 22.33410813116646,0.0,-10.650440002010555
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 22.68169851749684,0.0,-10.521147254033622
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.030023070590346,0.0,-10.386341814408183
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-10.244901900343052
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-10.095440602500958
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-9.93642818977412
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-9.766307240661149
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-9.583611909584988
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-9.419186115972252
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-9.271202905640962
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-9.138018019871083
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-9.018151625853534
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.910271874095542
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.813180100085447
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.725797505791206
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.64715317300977
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.576373275381457
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.512671369203531
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.455339655162106
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:22] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 23.323627620085404,0.0,-8.41176899637776
+[21:19:33] [Server thread/WARN]: zShO moved too quickly! 9.735017442693476,2.4011529383941195,-0.5189440449498761
+[21:19:55] [Server thread/INFO]: elmiam0r has made the advancement [Isn't It Iron Pick]
+[21:20:37] [Server thread/WARN]: zShO moved too quickly! -1.1140638628963586,-0.07520089011894981,10.409960367726399
+[21:21:00] [Server thread/INFO]: [Not Secure] <zShO> i see you
+[21:21:02] [Server thread/INFO]: zShO lost connection: Disconnected
+[21:21:02] [Server thread/INFO]: zShO left the game
+[21:21:22] [Server thread/INFO]: zShO[/100.77.228.72:55519] logged in with entity id 1364 at (-236.47797914447736, 71.0, 776.1898347578511)
+[21:21:22] [Server thread/INFO]: zShO joined the game
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.605631205868065,2.5220412332771502E-5,-3.131226715674302
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.943881431177374,2.5188805658160618E-5,-3.3213577910837557
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.276291040140904,2.5555477272121152E-5,-3.5210567366573287
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.602890950390417,2.619077172738571E-5,-3.7298980716407186
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.923758508077754,2.6975406591134288E-5,-3.947434006061144
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -11.239004317832155,2.780766646282018E-5,-4.173209725066954
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.34218686781486,-8.641657842645145E-7,-8.098464952674817
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.569594156673986,-8.699132507672402E-7,-8.426390776074072
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.798064032870059,-8.752281672741447E-7,-8.75367057865651
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.02897360912533,-8.797825756801103E-7,-9.079215668522124
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.263366332862006,-8.833929072693536E-7,-9.402103007586902
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.50201229403973,-8.859989435450188E-7,-9.721565502594103
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.74546035644039,-8.87637938262742E-7,-10.036978336602829
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.994075129298437,-8.88417169164768E-7,-10.34785117492936
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.24807916756265,-8.884876336878733E-7,-10.65380716575487
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.507576436537192,-8.880207502670601E-7,-10.954575874057468
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.772143898498598,-8.871891594708359E-7,-11.250521695024077
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.040945084254417,-8.861522715619685E-7,-11.542526281661708
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.312798552688207,-8.850464894294419E-7,-11.831864360244367
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.586213486920713,-8.839797658310999E-7,-12.120082654717748
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.859918494590318,-8.830298625639443E-7,-12.408401352190594
+[21:21:43] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.132844297794293,-8.822455157542208E-7,-12.697769646672782
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.43256533002858,4.190604798282038E-6,-11.042513526117318
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.692873845603174,4.379039857838052E-6,-11.34416531437114
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.94855140931918,4.5029615947100865E-6,-11.64944605891344
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.75114239960584,-2.2296357116147192E-7,-9.338341512124657
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.99854495613664,-2.068730537985175E-7,-9.650051081964875
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.243398162811218,-2.290614986577566E-7,-9.963869761985734
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.487269383761316,-2.7813857883529636E-7,-10.2786731068054
+[21:21:44] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.731408062670141,-3.433552961951136E-7,-10.593494541796986
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.718722619729533,1.723776676954003E-10,-6.777636900902962
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.01622758604799,1.7339374380753725E-10,-7.038697893351468
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.30904224225469,1.7459456103097182E-10,-7.304829479656405
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.597093889620055,1.758309053911944E-10,-7.575952407061095
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.880365023286345,1.7699619547784096E-10,-7.851944525813678
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.158883694570477,1.780122715899779E-10,-8.1326520581988
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.432717446603135,1.7882939573610201E-10,-8.417896993264549
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.701961245876191,1.794333570614981E-10,-8.707487772840636
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.966738865664922,1.7982415556616616E-10,-9.001219752190764
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.22719132728514,1.8003021295953658E-10,-9.298884108261745
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.483475786236454,1.800728455236822E-10,-9.600269121782958
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.5284887145497805,6.842526545369765E-12,-7.917352645866799
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.741087015886421,6.885159109515371E-12,-8.254120327155192
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.952184771940949,6.927791673660977E-12,-8.591990110378333
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.161888674898364,6.963318810448982E-12,-8.930876383408304
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.37030139550302,6.991740519879386E-12,-9.270698273184166
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.577515315070684,7.013056801952189E-12,-9.61138295297485
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.783620239465108,7.027267656667391E-12,-9.952861078928095
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.988696979060251,7.034373084024992E-12,-10.295070215501255
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.192824940773733,7.034373084024992E-12,-10.637950396988572
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.396075581516186,7.034373084024992E-12,-10.981447635629706
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.598516550365673,7.027267656667391E-12,-11.325511457444918
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.800208725902849,7.02016222930979E-12,-11.670096424677581
+[21:21:50] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.001210242296906,7.013056801952189E-12,-12.015159765801627
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.245269491539034,0.0,-8.885122149641234
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.410865927089219,0.0,-9.247803268791017
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.57453794275682,0.0,-9.611442735703463
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.7364030007268525,0.0,-9.975974108119999
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.896573908053085,0.0,-10.341334656205845
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.055159295209819,0.0,-10.707465032286109
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.212264049582416,0.0,-11.074308969882281
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.3679861200168375,0.0,-11.441814380027154
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.522420799990982,0.0,-11.809931570057415
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.675657417804189,0.0,-12.178614408417388
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.827779938683136,0.0,-12.547819968548424
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.978867502951914,0.0,-12.917508227015446
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.128994914110365,0.0,-13.28764177691994
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.278229487855981,0.0,-13.658186929702197
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.42663897670468,0.0,-14.029110638746943
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.5742843532626125,0.0,-14.400383154650626
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.721224080328454,0.0,-14.771976339494358
+[21:21:59] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.86751076976293,0.0,-15.143864861701445
+[21:22:00] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.9419470043802676,0.0,-9.603643559942498
+[21:22:00] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.084217604318383,0.0,-9.977315714382485
+[21:22:00] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.226201481710007,0.0,-10.351112867553411
+[21:22:00] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.367920119937708,0.0,-10.725025190612314
+[21:22:00] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.509396448019004,0.0,-11.099042503946862
+[21:22:00] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.650651102069219,0.0,-11.473155645906331
+[21:22:00] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.7917026545916315,0.0,-11.847356367279758
+[21:22:00] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.932567820838699,0.0,-12.221637243777536
+[21:22:00] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.07326164453724,0.0,-12.595991593539338
+[21:22:00] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.213797663178411,0.0,-12.970413406616217
+[21:22:00] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.354188062366575,0.0,-13.344897266603652
+[21:22:00] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.494447404050504,0.0,-13.719436968809191
+[21:22:00] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.634585198147306,0.0,-14.094028262663528
+[21:22:02] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.649637962260897,0.0,-9.736710530760206
+[21:22:02] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.7888452742840286,0.0,-10.111692084219271
+[21:22:02] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.92802185650271,0.0,-10.486686371356427
+[21:22:02] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.067170781898085,0.0,-10.861692118803603
+[21:22:02] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.206294816153161,0.0,-11.23670818052949
+[21:22:02] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.345392853477449,0.0,-11.61173485875986
+[21:22:02] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.484467493564637,0.0,-11.986771091844048
+[21:22:02] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.623521076138957,0.0,-12.361815924296366
+[21:22:02] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.7625557069522415,0.0,-12.736868496179909
+[21:22:06] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.612437130551996,0.0,-9.752446602605573
+[21:22:06] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.751373814101896,0.0,-10.127541925792002
+[21:22:06] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.890310427468876,0.0,-10.502637275752363
+[21:22:06] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.029246977671221,0.0,-10.877732649809332
+[21:22:06] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.168183471025429,0.0,-11.252828045553315
+[21:22:06] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.307119913216297,0.0,-11.62792346081551
+[21:22:06] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.446056309360188,0.0,-12.003018893644139
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.422805551499323,0.0,-10.101279092988534
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.509894183758263,0.0,-10.491585222567892
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.5968058573569692,0.0,-10.881940217207443
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.6835582681657115,0.0,-11.27233919040009
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.7701635957565145,0.0,-11.66277856385318
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.85663280081269,0.0,-12.053255113378441
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.9429794955909188,0.0,-12.443765121367619
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.0292121844112216,0.0,-12.834306061537518
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.1153422678720517,0.0,-13.224874840669258
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.2013762598011226,0.0,-13.61546949070464
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.287323769353918,0.0,-14.006087424552561
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.373193444770095,0.0,-14.396726313831323
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.4589893218231396,0.0,-14.787384878835837
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.544718780351161,0.0,-15.17806115199312
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.6303884622082023,0.0,-15.568753362487428
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.7160043450627995,0.0,-15.959459916584706
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.8015718088165045,0.0,-16.35017937992427
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.88709194866982,0.0,-16.740911277420196
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.9725694970139216,0.0,-17.131654365656573
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.058008713000731,0.0,-17.52240752555906
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.143413429866882,0.0,-17.913169749960844
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.228787097525299,0.0,-18.303940132411753
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.314132820897441,0.0,-18.69471785710664
+[21:22:12] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.39945339441266,0.0,-19.085502189821
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.2345044398398954,0.0,-10.156061750745266
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.319763672857164,0.0,-10.546862200418218
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.4050026583443014,0.0,-10.937667801450743
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.49022342105485,0.0,-11.328478038706862
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.575427783266832,0.0,-11.719292448564147
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.660617385030548,0.0,-12.110110613762345
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.745793702391154,0.0,-12.500932158767228
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.8309580637892964,0.0,-12.891756745598059
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.9161116648215284,0.0,-13.282584070072176
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.0012555815246174,0.0,-13.673413858425192
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.086390782331762,0.0,-14.064245864269196
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.1715181388327665,0.0,-14.455079865855055
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.2566384354584557,0.0,-14.84591566360848
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.341069118046221,0.0,-15.236895536738984
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.423573810486687,0.0,-15.628242937490995
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.5024731590534657,0.0,-16.020184956778962
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.5764328026599514,0.0,-16.41282381778467
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.644415114809533,0.0,-16.806173618098455
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.7056413785867335,0.0,-17.200188405756876
+[21:22:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.7595448547476167,0.0,-17.594783696308014
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.1752783396959785,0.0,26.244009838600846
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.2398310153340617,0.0,25.85524475742136
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.297928421869244,0.0,25.5053561936287
+[21:22:15] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.3502160863657764,0.0,25.19045649455734
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.026051467117611,0.0,16.47874372028275
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.0731103639178627,0.0,16.195333998626325
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.1154633699160854,0.0,15.940265255892541
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.153581074304725,0.0,15.710703393513427
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.1878870073456937,0.0,15.504097722845358
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.2187623462646684,0.0,15.318152624170011
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.2465501505556063,0.0,15.150802039795508
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.2715591737549516,0.0,15.00018651784842
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.2940672940380864,0.0,14.864632551686896
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.3143246017562547,0.0,14.742633985373459
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.3325561782196473,0.0,14.632835278600055
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.348964596602059,0.0,14.534016445121779
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.3637321727550216,0.0,14.445079497347365
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.3770229909405884,0.0,14.365036246470822
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.3889847269907136,0.0,14.292997322590281
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.3997502891506315,0.0,14.228162292815341
+[21:22:17] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4094392948379095,0.0,14.169810767563717
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4181593997254254,0.0,14.11729439622843
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4260074939163019,0.0,14.070029663278774
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4330707785009622,0.0,14.027491404751004
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.439427734458775,0.0,13.989206973090177
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.445148994669239,0.0,13.954750985508213
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4502981287222383,0.0,13.923740597505912
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4549323492472013,0.0,13.895831249043226
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4591031476091416,0.0,13.870712836092139
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4628568660354517,0.0,13.848106265035085
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4662352125296252,0.0,13.827760351622715
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4692757242938796,0.0,13.809449030036603
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4720121848092163,0.0,13.792968841045763
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4744749992077573,0.0,13.778136671346942
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4766915321077363,0.0,13.764787718971547
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.478686411664853,0.0,13.75277366215198
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4804818032187086,0.0,13.741961011300873
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4820976555743641,0.0,13.73222962579257
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.48355192265592,0.0,13.723471379067178
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4848607629946855,0.0,13.715588957223076
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.486038719268322,0.0,13.708494777751298
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4870988798865596,0.0,13.702110016395864
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4880530244176953,0.0,13.696363731328233
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4889117544729515,0.0,13.691192074904393
+[21:22:23] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4896846115021845,0.0,13.686537584246253
+[21:23:01] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.8587749962798625,0.0,6.734546770185148
+[21:23:01] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.170076268066282,0.0,6.977461635260511
+[21:23:01] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.482006425193163,0.0,7.220402999025282
+[21:23:01] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.794460561562175,0.0,7.463422984553176
+[21:23:01] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.107770140599541,0.0,7.706005885053969
+[21:23:01] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.421773953646777,0.0,7.948296852420867
+[21:23:01] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -9.735908875738971,0.0,8.190971002471201
+[21:23:01] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.049264131391737,0.0,8.43509869871059
+[21:23:01] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.361073372573173,0.0,8.681507900532324
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.068263337409007,0.0,-1.3207867461678688
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.31326384421368,0.0,-1.1389665051260636
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.53376429449662,0.0,-0.9753282925233862
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.732214694494132,0.0,-0.8280539050823563
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.910820049760446,0.0,-0.6955069598967611
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -11.07156486524184,0.0,-0.5762147123898558
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -11.216235195342676,0.0,-0.46885169247775593
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -11.346438488984177,0.0,-0.3722249771166162
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -11.463621450157234,0.0,-0.2852609355953746
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -11.569086112419143,0.0,-0.20699330029958674
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -11.66400430594041,0.0,-0.13655243039943343
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -11.749430677846533,0.0,-0.07315564916882522
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -11.826314410525299,0.0,-0.01609854757271023
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -11.895509768103125,0.0,0.03525284250338245
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -11.957785588273453,0.0,0.08146909234756095
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.013833824941969,0.0,0.12306371610543465
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.064277236607325,0.0,0.16049887649580796
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.109676305903463,0.0,0.19419051995464542
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.150535467187638,0.0,0.2245129982643448
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.187308711369212,0.0,0.25180322802009414
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.22040463025587,0.0,0.2763644341496274
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.250190956464792,0.0,0.29846951908064057
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.276998649342659,0.0,0.3183640949915798
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.301125572293586,0.0,0.33626921283700995
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.322839802374233,0.0,0.35238381847102573
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.342382608929086,0.0,0.36688696315741254
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.359971134362524,0.0,0.3799397930293935
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.375800806833297,0.0,0.3916873396029814
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.39004751167954,0.0,0.4022601312391316
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.402869545701492,0.0,0.4117756434595776
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.414409376015556,0.0,0.42033960423111694
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.424795223023068,0.0,0.4280471687213776
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.434142485082248,0.0,0.43498397657879195
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.442555020712632,0.0,0.4412271034850619
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.450126302579406,0.0,0.44684591755185465
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.456940456078996,0.0,0.4519028500779996
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.463073194066169,0.0,0.45645408923098785
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.468592658108378,0.0,0.4605502043601746
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.473560175614807,0.0,0.46423670787874016
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.478030941252143,0.0,0.4675545609576375
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.482054630219181,0.0,0.47054062864947355
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.485675950193581,0.0,0.4732280895009353
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.488935138084173,0.0,0.47564680420316563
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.49186840710803,0.0,0.47782364737759053
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.49450834915956,0.0,0.47978280618258395
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.496884296942994,0.0,0.4815460490603982
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.499022649891458,0.0,0.4831329676084124
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.500947167494076,0.0,0.48456119426373334
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.502679233290564,0.0,0.4858465982194957
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.504238092466096,0.0,0.4870034617490546
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.505641065686916,0.0,0.48804463889803174
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.506903741552208,0.0,0.48898169830727056
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.508040149800877,0.0,0.48982505175331426
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.509062917197582,0.0,0.49058406983465375
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.509983407830191,0.0,0.4912671860897717
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.510811849377603,0.0,0.4918819907030638
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.511557446750544,0.0,0.49243531484034975
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.512228484368393,0.0,0.4929333065507535
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.512832418208461,0.0,0.4933814990781684
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.513375958650101,0.0,0.4937848723421894
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.513865145034629,0.0,0.49414790827017896
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.514305412769033,0.0,0.4944746405967635
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.514701653719499,0.0,0.49476869968282244
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.515058270565476,0.0,0.49503335285328376
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.515379225718391,0.0,0.4952715407004007
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.515668085348352,0.0,0.4954859097571216
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.515928059008445,0.0,0.49567884190309996
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.516162035296304,0.0,0.49585248082985345
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.516372613949784,0.0,0.4960087558597479
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.516562134732908,0.0,0.49614940338301494
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.516732703433206,0.0,0.49627598615052193
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.516886215259433,0.0,0.4963899106382996
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517024375899325,0.0,0.4964924426745938
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517148720471937,0.0,0.4965847215047461
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.51726063058436,0.0,0.49666777244976856
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517361349682858,0.0,0.4967425182983334
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517451996869113,0.0,0.4968097895601886
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517533579334554,0.0,0.4968703336942326
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517607003551518,0.0,0.4969248234134511
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517673085345052,0.0,0.49697386415948586
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517732558957618,0.0,0.49701800082971204
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517786085207547,0.0,0.4970577238318583
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517834258831215,0.0,0.4970934745329032
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517877615091322,0.0,0.49712565016295684
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517916635724418,0.0,0.49715460822926616
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517951754293279,0.0,0.4971806704882056
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.517983361004383,0.0,0.4972041265206144
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.51801180704365,0.0,0.49722523694924803
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518037408478278,0.0,0.4972442363344953
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518060449768882,0.0,0.49726133578076315
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518081186929862,0.0,0.4972767252820631
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518099850374256,0.0,0.4972905758328352
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518116647473732,0.0,0.4973030413282231
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518131764862858,0.0,0.4973142602736971
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518145370512741,0.0,0.4973243573243735
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518157615597318,0.0,0.49733344466972085
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.51816863617313,0.0,0.4973416232803629
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518178554691076,0.0,0.4973489840297134
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518187481357018,0.0,0.49735560870396966
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518195515356126,0.0,0.497361570910698
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518202745955136,0.0,0.49736693689658296
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518209253494092,0.0,0.4973717662837771
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518215110279016,0.0,0.4973761127321268
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518220381385277,0.0,0.4973800245354596
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518225125380809,0.0,0.49738354515841365
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518229394976686,0.0,0.4973867137190382
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518233237612833,0.0,0.4973895654235321
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518236695985308,0.0,0.49739213195744014
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518239808520434,0.0,0.49739444183796877
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518242609801973,0.0,0.4973965207303763
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518245130955279,0.0,0.4973983917334408
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518247399993186,0.0,0.49740007563616473
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518249442127285,0.0,0.4974015911485594
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518251280047934,0.0,0.4974029551096919
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518252934176473,0.0,0.49740418267469977
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518254422892085,0.0,0.4974052874831614
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.51825576273609,0.0,0.4974062818107541
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518256968595665,0.0,0.4974071767055648
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.51825805386926,0.0,0.49740798211087167
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518259030615468,0.0,0.4974087069756479
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.51825990968706,0.0,0.4974093593539237
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518260700851442,0.0,0.497409946494372
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518261412899392,0.0,0.49741047492068446
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518262053742546,0.0,0.4974109505044453
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.51826263050134,0.0,0.49741137852981865
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518263149584243,0.0,0.49741176375266605
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518263616758873,0.0,0.49741211045318323
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518264037216,0.0,0.4974124224836487
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518264415627414,0.0,0.49741270331105625
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518264756197652,0.0,0.49741295605565483
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518265062710896,0.0,0.4974131835258504
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518265338572803,0.0,0.49741338824901504
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518265586848486,0.0,0.497413572499795
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518265810296612,0.0,0.49741373832557656
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.51826601139993,0.0,0.4974138875687686
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.5182661923929,0.0,0.4974140218876073
+[21:23:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -12.518266355286585,0.0,0.4974141427745735
+[21:23:37] [Server thread/INFO]: zShO lost connection: Timed out
+[21:23:37] [Server thread/INFO]: zShO left the game
+[21:23:37] [Server thread/WARN]: handleDisconnection() called twice
+[21:29:48] [Server thread/INFO]: elmiam0r has made the advancement [Take Aim]
+[21:39:06] [Server thread/INFO]: elmiam0r has made the advancement [Suit Up]
+[21:39:09] [Server thread/INFO]: zShO[/100.77.228.72:58262] logged in with entity id 5808 at (-334.1992928664219, 62.11076431274413, 567.315259263508)
+[21:39:09] [Server thread/INFO]: zShO joined the game
+[21:39:56] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.522548603969483,0.0,7.154020563909171
+[21:39:56] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.805474191519636,0.0,7.436557902250684
+[21:39:56] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.088198297781332,0.0,7.719317647002981
+[21:39:56] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.321552208999776,0.0,7.383705389173883
+[21:39:56] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.602334798570723,0.0,7.668575961980764
+[21:39:56] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.883094693509861,0.0,7.953470605622783
+[21:39:56] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.16383416328091,0.0,8.238386913015802
+[21:39:56] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.444555250401152,0.0,8.52332271778414
+[21:39:56] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.725259793136104,0.0,8.80827607018989
+[21:40:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.775608199247898,0.0,7.652925519077826
+[21:40:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.017815314008885,0.0,7.969261787278015
+[21:40:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.258934261117901,0.0,8.286594779007373
+[21:40:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.4990300367763325,0.0,8.604855846106943
+[21:40:14] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.738164231417443,0.0,8.923980936533326
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.957819514485635,0.0,9.602891744441195
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.1890998884767043,0.0,9.669031197431082
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.429948984470684,0.0,9.75159529945995
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.679830664325465,0.0,9.848332626928368
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.9382112703912924,0.0,9.957270257846062
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.204566403358967,0.0,10.076681617091594
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.478384407169273,0.0,10.205060280822863
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.759171081229255,0.0,10.341092772014349
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.046451503693191,0.0,10.483637032459683
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.3394229330895655,0.0,10.632303173214382
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.637009830274536,0.0,10.787311101843784
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 5.937890873710046,0.0,10.949343037791436
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.240501018329297,0.0,11.119410524757086
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.543025491878268,0.0,11.298725709873793
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.843394054484577,0.0,11.488577437167464
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.139275979418528,0.0,11.690217921182239
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.428097677040995,0.0,11.904745034383723
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.707058582433177,0.0,12.133005487198034
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.973816075434627,0.0,12.375231586433301
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.226481490432889,0.0,12.631202941844435
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.463588404820456,0.0,12.900380267373407
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.68405724174437,0.0,13.182008934147575
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.887154787603265,0.0,13.475200072157804
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.072445162123586,0.0,13.778993484857438
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.239743371912283,0.0,14.092403893640267
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.389084764619895,0.0,14.414454429286593
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.520675656846322,0.0,14.744200631260014
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.634866317084743,0.0,15.080746727359724
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.73211791078262,0.0,15.42325549468319
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.812979743965712,0.0,15.77095425856919
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.878060885816211,0.0,16.123136093243374
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.928019597209953,0.0,16.479161144543355
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.963546206098016,0.0,16.838454720930145
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.985344069245912,0.0,17.200502870837227
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.994127413466401,0.0,17.564850853525968
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.990604659205928,0.0,17.93109686409889
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.975474647248376,0.0,18.298888535504375
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.949423306078415,0.0,18.66791927997565
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.913117099513073,0.0,19.037923323671635
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.867200881868769,0.0,19.408671960558877
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.812292425792236,0.0,19.779968571581094
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.748981215147865,0.0,20.15164508068426
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.677831000087906,0.0,20.523559912629253
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.599378541757119,0.0,20.89559467608251
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.514132534681153,0.0,21.267651021935876
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.422572686276197,0.0,21.639647659332468
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.32514893311108,0.0,22.011517562055815
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.222287861092383,0.0,22.38320825942492
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.114387848858257,0.0,22.754677717157392
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 9.001821821450648,0.0,23.125893461367582
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.884939732345714,0.0,23.496831778988735
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.76406728153816,0.0,23.867475470784257
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.639511824036532,0.0,24.23781480556454
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.511553598460637,0.0,24.607842314209506
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.380458979390113,0.0,24.977557175371203
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.246471282081615,0.0,25.34696003564443
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 8.109820086848543,0.0,25.71605596593929
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.970715566169133,0.0,26.084850975487484
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.829353930968665,0.0,26.453353490082463
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.685915304513031,0.0,26.821572579328972
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.5405653274497695,0.0,27.1895179108883
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.393460102255261,0.0,27.55720125529467
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.244740136055697,0.0,27.92463317622628
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 7.094538899982865,0.0,28.291826284160038
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.942976527365488,0.0,28.658791909898355
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.790168141742271,0.0,29.025543372956463
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.636217361745935,0.0,29.392092645996513
+[21:40:24] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 6.481217447868687,0.0,29.758450496963746
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.5886201892256793,0.0,20.568882858631127
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.431779070651743,0.0,20.93489207553921
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.2747707916792024,0.0,21.30102551803941
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.1188245478985834,0.0,21.667770675175802
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.965598408104995,0.0,22.035712754315114
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.8164326088027565,0.0,22.405242398197174
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.6723898031641795,0.0,22.776601609589534
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.534290577286498,0.0,23.14991985689369
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.4027513273235,0.0,23.52524376032079
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.2782086431249695,0.0,23.902558508360926
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.1609536848053494,0.0,24.28180670419647
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.0511487671797113,0.0,24.662900920455513
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.9488542451019555,0.0,25.045734901632045
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.8540455078853313,0.0,25.430191269528336
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.7659318934248631,0.0,25.816104868531397
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.6831098797381685,0.0,26.203271935472912
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.6036964797822293,0.0,26.591424277272722
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.5261352750005983,0.0,26.980295188191008
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.4491556843658486,0.0,27.369630316777602
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.3717247138811217,0.0,27.759192975777864
+[21:40:25] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.2930148047923353,0.0,28.148768611848823
+[21:40:26] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.2123748629866213,0.0,28.538167338186895
+[21:40:26] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.1292968266064634,0.0,28.927222894659963
+[21:40:26] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.0433968580134092,0.0,29.315793310075264
+[21:40:26] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.9543947918484434,0.0,29.703759710081158
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.8620994185251334,0.0,30.091025631709044
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.7663880402504049,0.0,30.477513470932536
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.6671991336930887,0.0,30.863164314131268
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.5645185407431654,0.0,31.2479350259689
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.4583671603360244,0.0,31.63179518517336
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.3488007563927624,0.0,32.01472802222736
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.23589901049567175,0.0,32.396727158019644
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.11975934615787764,0.0,32.777794778767884
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 4.949786099075482E-4,0.0,33.15794126377364
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -0.12177038314345623,0.0,33.53718335283452
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -0.24690725976844874,0.0,33.91554240005803
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -0.3747810754928764,0.0,34.293044150848914
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -0.5052562961828357,0.0,34.66971705480728
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -0.6381965866461883,0.0,35.045592148045785
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -0.7734684819183144,0.0,35.42070144598313
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -0.9109376105735123,0.0,35.79507945101386
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.0504723597872214,0.0,36.16876149937593
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.191947147814858,0.0,36.541782224903386
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.3352418432353943,0.0,36.914175688871296
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.4802377218713048,0.0,37.28597700559885
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.6268243724507272,0.0,37.65721921593456
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.7748953672691812,0.0,38.02793505177476
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -1.9243513805067494,0.0,38.398155450765444
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.0750959781291556,0.0,38.767911304074914
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.22703884724595,0.0,39.137231926221716
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.380095185858494,0.0,39.50614522019032
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.5341851573586496,0.0,39.87467783348552
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.6892333958522556,0.0,40.24285529485667
+[21:40:30] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -2.845168566538206,0.0,40.61070212617301
+[21:40:31] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.0019229625989965,0.0,40.978241954287455
+[21:40:31] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.159435642312559,0.0,41.34549603219148
+[21:40:31] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.317648256357643,0.0,41.71248505219853
+[21:40:31] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -3.476508286621197,0.0,42.07922762993985
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.63437707189604,0.0,9.692452877391247
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.66275062117802,0.0,10.070978711078737
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.6709665190595047,0.0,10.447707565681867
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.6589526437846303,0.0,10.82173955002338
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.6269089967558443,0.0,11.19226873695004
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.5752479348997213,0.0,11.558595660458877
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.504544749563138,0.0,11.920132647349988
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.415494673911695,0.0,12.276402256642768
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.3088759702782227,0.0,12.62703066523261
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.185521380291334,0.0,12.971740053502458
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 3.0462940113774835,0.0,13.310338591464642
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.8920724407187777,0.0,13.642714386031344
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.723735634297384,0.0,13.968825581837336
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.5421479677388277,0.0,14.288686987219194
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.348151923465167,0.0,14.602362424126909
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.1425646380637033,0.0,14.909959973910304
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.9261704754448488,0.0,15.211621104762912
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.6997197722949124,0.0,15.507516237801838
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.4639257476183332,0.0,15.797837310645491
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.2194621683606215,0.0,16.082790680440326
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.966966117423425,0.0,16.362596624406137
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.7070361709918984,0.0,16.637482505178923
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.44023325034862637,0.0,16.907679521621503
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.16708156359467807,0.0,17.173419648579625
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -0.11192826692376912,0.0,17.43493594857614
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -0.39633844256638895,0.0,17.69245960574608
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -0.685725310486248,0.0,17.94621397998469
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.5808617999939827
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.5488021677522568
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.4868805466575452
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved wrongly! 0.40697906089619096
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.697434114279957,0.0,-14.770820847326831
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.584170213921595,0.0,-14.526760515742922
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.446730656227544,0.0,-14.288681270733491
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.286041837131222,0.0,-14.059198332739243
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.103335098283026,0.0,-14.04371064391023
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.900033437894422,0.0,-14.034255781695606
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.677667346212246,0.0,-14.018817264924223
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.437807167404372,0.0,-14.000292709297923
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.182014284023211,0.0,-13.981075921149454
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.911806261556535,0.0,-13.963117396046641
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.628632154244116,0.0,-13.947978544250873
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.333856736241557,0.0,-13.936902093792241
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.068558867067253,0.0,-13.926933288643568
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -5.829790791135565,0.0,-13.91796136424739
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -5.61489952848973,0.0,-13.909886632504822
+[21:40:32] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.59217298604608,0.0,-15.011210217379471
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.418111072525079,0.0,-15.004669685014505
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.261455354506126,0.0,-14.998783206041935
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.120465212024044,0.0,-14.993485375106957
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.960122686454412,0.0,-14.966788733875433
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.782042861393819,0.0,-14.921329463824577
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.587716814538169,0.0,-14.859435799129187
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.378522122102879,0.0,-14.783157526860577
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.565996262370021,0.0,-14.924928583573205
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.336832006059495,0.0,-14.816140437944
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.098827492934362,0.0,-14.69391311848301
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.884623436796204,0.0,-14.583908533882209
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.785575117303921,0.0,-15.018477475755276
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.592791471886585,0.0,-14.919473352237219
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.419286195607327,0.0,-14.830369643431482
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.263131451092676,0.0,-14.750176307630682
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -8.090954795539659,0.0,-14.653529320042594
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.90424611783277,0.0,-14.542219908117318
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.70435627190821,0.0,-14.417848475380197
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.492513126019247,0.0,-14.281840500568705
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.269831398890517,0.0,-14.135466963781141
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -7.037321560685541,0.0,-13.979862785889964
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.828062711844524,0.0,-13.83981902949779
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.639729752876747,0.0,-13.713779652083758
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.4702300942959425,0.0,-13.600344215416158
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.3176804056143965,0.0,-13.498252325119779
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.180385689438083,0.0,-13.406369626287187
+[21:40:33] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -6.056820448152763,0.0,-13.323675199528452
+[21:40:58] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.171787219245914,0.0,1.314800579564121
+[21:40:58] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! -10.568383695657815,0.0,1.3350263289089526
+[21:41:16] [Server thread/INFO]: [Not Secure] <zShO> mijo tu que compañia de net tienes?
+[21:41:37] [Server thread/INFO]: [Not Secure] <elmiam0r> NO TE VOY A DECIR
+[21:41:45] [Server thread/INFO]: [Not Secure] <elmiam0r> muajajaja
+[21:41:46] [Server thread/INFO]: [Not Secure] <zShO> osea totalplay?
+[21:41:56] [Server thread/INFO]: [Not Secure] <elmiam0r> tanpoco
+[21:41:57] [Server thread/INFO]: [Not Secure] <zShO> ya no me va lag we
+[21:41:59] [Server thread/INFO]: [Not Secure] <zShO> xd
+[21:42:01] [Server thread/INFO]: [Not Secure] <elmiam0r> izzi
+[21:42:48] [Server thread/INFO]: [Not Secure] <zShO> sigues en la mina?
+[21:42:55] [Server thread/INFO]: zShO lost connection: You logged in from another location
+[21:42:55] [Server thread/INFO]: zShO left the game
+[21:42:56] [Server thread/INFO]: zShO[/100.77.228.72:59946] logged in with entity id 8070 at (-406.43184837122766, 70.0, 900.1837049773359)
+[21:42:56] [Server thread/INFO]: zShO joined the game
+[21:43:10] [Server thread/INFO]: [Not Secure] <elmiam0r> si
+[21:43:48] [Server thread/INFO]: [Not Secure] <elmiam0r> tu sigues con lag
+[21:43:54] [Server thread/INFO]: [Not Secure] <zShO> no tanto
+[21:43:59] [Server thread/INFO]: [Not Secure] <zShO> ya puedo hacer cosas we
+[21:44:42] [Server thread/INFO]: [Not Secure] <zShO> deja me paso el juego xd
+[21:45:20] [Server thread/INFO]: zShO has made the advancement [Acquire Hardware]
+[21:46:26] [Server thread/INFO]: [Not Secure] <zShO> viy a tratar de meter los mods en este mundo
+[21:46:29] [Server thread/INFO]: [Not Secure] <zShO> o si hago otro?
+[21:46:44] [Server thread/INFO]: [Not Secure] <elmiam0r> mejor a otro
+[21:46:47] [Server thread/INFO]: [Not Secure] <elmiam0r> o que
+[21:47:12] [Server thread/INFO]: [Not Secure] <zShO> nos pasamos el juego o que?
+[21:47:44] [Server thread/INFO]: elmiam0r has made the advancement [Not Today, Thank You]
+[21:48:12] [Server thread/INFO]: [Not Secure] <elmiam0r> va
+[21:48:21] [Server thread/INFO]: [Not Secure] <elmiam0r> checa esto
+[21:48:28] [Server thread/INFO]: elmiam0r has made the advancement [Diamonds!]
+[21:48:40] [Server thread/INFO]: [Not Secure] <zShO> xd
+[21:48:53] [Server thread/WARN]: zShO moved too quickly! -1.3008907874932447,-10.194791162474466,1.2523978372676083
+[21:49:25] [Server thread/INFO]: [Not Secure] <zShO> deja consigo yo tambien unos
+[21:49:40] [Server thread/INFO]: [Not Secure] <elmiam0r> sin usar creativo
+[21:49:44] [Server thread/INFO]: [Not Secure] <elmiam0r> cuyeyo
+[21:49:46] [Server thread/INFO]: [Not Secure] <zShO> gamemode 1
+[21:49:47] [Server thread/INFO]: [Not Secure] <zShO> xd
+[21:50:09] [Server thread/INFO]: elmiam0r has made the advancement [Cover Me with Diamonds]
+[21:54:28] [Server thread/INFO]: [Not Secure] <zShO> ya me perdi
+[21:55:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.8052070107220004,0.0,10.240076719958552
+[21:55:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.8746474261234596,0.0,10.63398340693584
+[21:55:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 1.9440880467819852,0.0,11.027891354420717
+[21:55:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.013528852171845,0.0,11.421800436362673
+[21:55:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.0829698238198944,0.0,11.815710539315887
+[21:55:16] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 2.152410945100314,0.0,12.20962156117912
+[21:55:35] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.7514612161316165,0.0,10.131671738686464
+[21:55:35] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.6282482001671781,0.0,10.487828784062458
+[21:55:35] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.4902676007472735,0.0,10.837801258322315
+[21:55:35] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.3391319037963001,0.0,11.182331968915378
+[21:55:35] [Server thread/WARN]: Oak Boat (vehicle of zShO) moved too quickly! 0.17680040169864242,0.0,11.522539595431908
+[21:56:38] [Server thread/INFO]: [Not Secure] <zShO> como te esta llendo?
+[21:56:57] [Server thread/INFO]: [Not Secure] <elmiam0r> no ma
+[21:57:01] [Server thread/INFO]: [Not Secure] <elmiam0r> casi muero
+[21:57:02] [Server thread/INFO]: [Not Secure] <zShO> duerme we tira paro
+[21:57:14] [Server thread/INFO]: [Not Secure] <elmiam0r> no tengo cama
+[21:57:19] [Server thread/INFO]: [Not Secure] <elmiam0r> deja subo
+[21:57:33] [Server thread/INFO]: zShO has made the advancement [Monster Hunter]
+[21:57:38] [Server thread/INFO]: zShO has made the advancement [Not Today, Thank You]
+[21:59:17] [Server thread/INFO]: zShO has made the advancement [Hot Stuff]
+[22:00:17] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[22:01:21] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[22:01:21] [Server thread/INFO]: elmiam0r lost connection: Disconnected
+[22:01:21] [Server thread/INFO]: elmiam0r left the game
+[22:01:22] [Server thread/INFO]: zShO lost connection: Disconnected
+[22:01:22] [Server thread/INFO]: zShO left the game
+[22:01:25] [Server thread/INFO]: zShO (/100.77.228.72:51329) lost connection: Disconnected
+[22:01:25] [Server thread/INFO]: zShO (/100.77.228.72:49232) lost connection: Disconnected
+[22:01:25] [Server thread/INFO]: zShO (/100.77.228.72:55471) lost connection: Disconnected
+[22:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 128474ms or 2569 ticks behind
+[22:01:26] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/symmetrical-journey/servidor_minecraft/crash-reports/crash-2026-02-27_22.01.26-server.txt

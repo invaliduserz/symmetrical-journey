@@ -1,0 +1,326 @@
+---- Minecraft Crash Report ----
+// I bet Cylons wouldn't have this problem.
+
+Time: 2026-02-27 22:01:26
+Description: Watching Server
+
+java.lang.Error: Watchdog
+	at knot//com.google.gson.internal.LinkedTreeMap.<init>(LinkedTreeMap.java:79)
+	at knot//com.google.gson.JsonObject.<init>(JsonObject.java:41)
+	at knot//com.mojang.serialization.JsonOps$JsonRecordBuilder.initBuilder(JsonOps.java:392)
+	at knot//com.mojang.serialization.JsonOps$JsonRecordBuilder.initBuilder(JsonOps.java:385)
+	at knot//com.mojang.serialization.RecordBuilder$AbstractBuilder.<init>(RecordBuilder.java:44)
+	at knot//com.mojang.serialization.RecordBuilder$AbstractStringBuilder.<init>(RecordBuilder.java:87)
+	at knot//com.mojang.serialization.JsonOps$JsonRecordBuilder.<init>(JsonOps.java:387)
+	at knot//com.mojang.serialization.JsonOps.mapBuilder(JsonOps.java:382)
+	at knot//com.mojang.serialization.codecs.UnboundedMapCodec.encode(UnboundedMapCodec.java:27)
+	at knot//com.mojang.serialization.codecs.UnboundedMapCodec.encode(UnboundedMapCodec.java:16)
+	at knot//com.mojang.serialization.Encoder$1.encode(Encoder.java:25)
+	at knot//com.mojang.serialization.Codec$2.encode(Codec.java:80)
+	at knot//com.mojang.serialization.Encoder.encodeStart(Encoder.java:14)
+	at knot//com.mojang.serialization.codecs.OptionalFieldCodec.encode(OptionalFieldCodec.java:44)
+	at knot//com.mojang.serialization.codecs.OptionalFieldCodec.encode(OptionalFieldCodec.java:17)
+	at knot//com.mojang.serialization.MapEncoder$1.encode(MapEncoder.java:26)
+	at knot//com.mojang.serialization.MapCodec$2.encode(MapCodec.java:82)
+	at knot//com.mojang.serialization.codecs.RecordCodecBuilder$Instance$4.encode(RecordCodecBuilder.java:222)
+	at knot//com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112)
+	at knot//com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:163)
+	at knot//com.mojang.serialization.Encoder.encodeStart(Encoder.java:14)
+	at knot//com.mojang.serialization.codecs.BaseMapCodec.encode(BaseMapCodec.java:62)
+	at knot//com.mojang.serialization.codecs.UnboundedMapCodec.encode(UnboundedMapCodec.java:27)
+	at knot//com.mojang.serialization.codecs.UnboundedMapCodec.encode(UnboundedMapCodec.java:16)
+	at knot//com.mojang.serialization.Encoder$1.encode(Encoder.java:25)
+	at knot//com.mojang.serialization.Codec$2.encode(Codec.java:80)
+	at knot//net.minecraft.class_4284$1.encode(class_4284.java:57)
+	at knot//com.mojang.serialization.Encoder.encodeStart(Encoder.java:14)
+	at knot//net.minecraft.class_2985.method_12890(class_2985.java:133)
+	at knot//net.minecraft.class_3324.method_14577(class_3324.java:308)
+	at knot//net.minecraft.class_3324.method_14611(class_3324.java:315)
+	at knot//net.minecraft.class_3244.method_52415(class_3244.java:1473)
+	at knot//net.minecraft.class_3244.method_10839(class_3244.java:1462)
+	at knot//net.minecraft.class_2535.method_10768(class_2535.java:667)
+	at knot//net.minecraft.class_3242.method_14357(class_3242.java:189)
+	at knot//net.minecraft.server.MinecraftServer.method_61254(MinecraftServer.java:1179)
+	at knot//net.minecraft.class_3176.method_61254(class_3176.java:441)
+	at knot//net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:1149)
+	at knot//net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:1021)
+	at knot//net.minecraft.class_3176.method_3748(class_3176.java:321)
+	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:775)
+	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297)
+	at knot//net.minecraft.server.MinecraftServer$$Lambda/0x000070fc8cdb3730.run(Unknown Source)
+	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+	at java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at knot//com.google.gson.internal.LinkedTreeMap.<init>(LinkedTreeMap.java:79)
+	at knot//com.google.gson.JsonObject.<init>(JsonObject.java:41)
+	at knot//com.mojang.serialization.JsonOps$JsonRecordBuilder.initBuilder(JsonOps.java:392)
+	at knot//com.mojang.serialization.JsonOps$JsonRecordBuilder.initBuilder(JsonOps.java:385)
+	at knot//com.mojang.serialization.RecordBuilder$AbstractBuilder.<init>(RecordBuilder.java:44)
+	at knot//com.mojang.serialization.RecordBuilder$AbstractStringBuilder.<init>(RecordBuilder.java:87)
+	at knot//com.mojang.serialization.JsonOps$JsonRecordBuilder.<init>(JsonOps.java:387)
+	at knot//com.mojang.serialization.JsonOps.mapBuilder(JsonOps.java:382)
+	at knot//com.mojang.serialization.codecs.UnboundedMapCodec.encode(UnboundedMapCodec.java:27)
+	at knot//com.mojang.serialization.codecs.UnboundedMapCodec.encode(UnboundedMapCodec.java:16)
+	at knot//com.mojang.serialization.Encoder$1.encode(Encoder.java:25)
+	at knot//com.mojang.serialization.Codec$2.encode(Codec.java:80)
+	at knot//com.mojang.serialization.Encoder.encodeStart(Encoder.java:14)
+	at knot//com.mojang.serialization.codecs.OptionalFieldCodec.encode(OptionalFieldCodec.java:44)
+	at knot//com.mojang.serialization.codecs.OptionalFieldCodec.encode(OptionalFieldCodec.java:17)
+	at knot//com.mojang.serialization.MapEncoder$1.encode(MapEncoder.java:26)
+	at knot//com.mojang.serialization.MapCodec$2.encode(MapCodec.java:82)
+	at knot//com.mojang.serialization.codecs.RecordCodecBuilder$Instance$4.encode(RecordCodecBuilder.java:222)
+	at knot//com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112)
+	at knot//com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:163)
+	at knot//com.mojang.serialization.Encoder.encodeStart(Encoder.java:14)
+	at knot//com.mojang.serialization.codecs.BaseMapCodec.encode(BaseMapCodec.java:62)
+	at knot//com.mojang.serialization.codecs.UnboundedMapCodec.encode(UnboundedMapCodec.java:27)
+	at knot//com.mojang.serialization.codecs.UnboundedMapCodec.encode(UnboundedMapCodec.java:16)
+	at knot//com.mojang.serialization.Encoder$1.encode(Encoder.java:25)
+	at knot//com.mojang.serialization.Codec$2.encode(Codec.java:80)
+	at knot//net.minecraft.class_4284$1.encode(class_4284.java:57)
+	at knot//com.mojang.serialization.Encoder.encodeStart(Encoder.java:14)
+	at knot//net.minecraft.class_2985.method_12890(class_2985.java:133)
+	at knot//net.minecraft.class_3324.method_14577(class_3324.java:308)
+	at knot//net.minecraft.class_3324.method_14611(class_3324.java:315)
+	at knot//net.minecraft.class_3244.method_52415(class_3244.java:1473)
+	at knot//net.minecraft.class_3244.method_10839(class_3244.java:1462)
+	at knot//net.minecraft.class_2535.method_10768(class_2535.java:667)
+	at knot//net.minecraft.class_3242.method_14357(class_3242.java:189)
+	at knot//net.minecraft.server.MinecraftServer.method_61254(MinecraftServer.java:1179)
+	at knot//net.minecraft.class_3176.method_61254(class_3176.java:441)
+	at knot//net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:1149)
+	at knot//net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:1021)
+	at knot//net.minecraft.class_3176.method_3748(class_3176.java:321)
+	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:775)
+	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:297)
+
+-- Thread Dump --
+Details:
+	Threads: "Reference Handler" daemon prio=10 Id=9 RUNNABLE
+	at java.base@21.0.10/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+	at java.base@21.0.10/java.lang.ref.Reference.processPendingReferences(Reference.java:246)
+	at java.base@21.0.10/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:208)
+
+
+"Finalizer" daemon prio=8 Id=10 WAITING on java.lang.ref.NativeReferenceQueue$Lock@60b8550c
+	at java.base@21.0.10/java.lang.Object.wait0(Native Method)
+	-  waiting on java.lang.ref.NativeReferenceQueue$Lock@60b8550c
+	at java.base@21.0.10/java.lang.Object.wait(Object.java:366)
+	at java.base@21.0.10/java.lang.Object.wait(Object.java:339)
+	at java.base@21.0.10/java.lang.ref.NativeReferenceQueue.await(NativeReferenceQueue.java:48)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:158)
+	at java.base@21.0.10/java.lang.ref.NativeReferenceQueue.remove(NativeReferenceQueue.java:89)
+	at java.base@21.0.10/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:173)
+
+
+"Signal Dispatcher" daemon prio=9 Id=11 RUNNABLE
+
+
+"Notification Thread" daemon prio=9 Id=16 RUNNABLE
+
+
+"Common-Cleaner" daemon prio=8 Id=17 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@51fffb85
+	at java.base@21.0.10/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@51fffb85
+	at java.base@21.0.10/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@21.0.10/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1886)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+	at java.base@21.0.10/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+	...
+
+
+"JNA Cleaner" daemon prio=5 Id=27 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5e96684
+	at java.base@21.0.10/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@5e96684
+	at java.base@21.0.10/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@21.0.10/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1886)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:71)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:143)
+	at java.base@21.0.10/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:218)
+	at knot//com.sun.jna.internal.Cleaner$CleanerThread.run(Cleaner.java:154)
+
+
+"Timer hack thread" daemon prio=5 Id=28 TIMED_WAITING
+	at java.base@21.0.10/java.lang.Thread.sleep0(Native Method)
+	at java.base@21.0.10/java.lang.Thread.sleep(Thread.java:509)
+	at knot//net.minecraft.class_156$11.run(class_156.java:986)
+
+
+"Yggdrasil Key Fetcher" daemon prio=5 Id=29 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@590e87ea
+	at java.base@21.0.10/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@590e87ea
+	at java.base@21.0.10/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+	at java.base@21.0.10/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1797)
+	at java.base@21.0.10/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+	at java.base@21.0.10/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	at java.base@21.0.10/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
+	at java.base@21.0.10/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base@21.0.10/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	...
+
+
+"Server thread" prio=5 Id=33 RUNNABLE
+	at knot//com.google.gson.internal.LinkedTreeMap.<init>(LinkedTreeMap.java:79)
+	at knot//com.google.gson.JsonObject.<init>(JsonObject.java:41)
+	at knot//com.mojang.serialization.JsonOps$JsonRecordBuilder.initBuilder(JsonOps.java:392)
+	at knot//com.mojang.serialization.JsonOps$JsonRecordBuilder.initBuilder(JsonOps.java:385)
+	at knot//com.mojang.serialization.RecordBuilder$AbstractBuilder.<init>(RecordBuilder.java:44)
+	at knot//com.mojang.serialization.RecordBuilder$AbstractStringBuilder.<init>(RecordBuilder.java:87)
+	at knot//com.mojang.serialization.JsonOps$JsonRecordBuilder.<init>(JsonOps.java:387)
+	at knot//com.mojang.serialization.JsonOps.mapBuilder(JsonOps.java:382)
+	...
+
+
+"Server console handler" daemon prio=5 Id=35 RUNNABLE (in native)
+	at java.base@21.0.10/java.io.FileInputStream.readBytes(Native Method)
+	at java.base@21.0.10/java.io.FileInputStream.read(FileInputStream.java:287)
+	at java.base@21.0.10/java.io.BufferedInputStream.read1(BufferedInputStream.java:345)
+	at java.base@21.0.10/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420)
+	at java.base@21.0.10/java.io.BufferedInputStream.read(BufferedInputStream.java:399)
+	at java.base@21.0.10/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350)
+	at java.base@21.0.10/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393)
+	at java.base@21.0.10/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217)
+	...
+
+	Number of locked synchronizers = 3
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@1b22d7a7
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@36be32fe
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@28537ef2
+
+
+"DestroyJavaVM" prio=5 Id=36 RUNNABLE
+
+
+"Netty Epoll Server IO #0" daemon prio=5 Id=37 RUNNABLE (in native)
+	at knot//io.netty.channel.epoll.Native.epollWait(Native Method)
+	at knot//io.netty.channel.epoll.Native.epollWait(Native.java:220)
+	at knot//io.netty.channel.epoll.Native.epollWait(Native.java:213)
+	at knot//io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:308)
+	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:365)
+	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998)
+	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+	...
+
+
+"Server Watchdog" daemon prio=5 Id=38 RUNNABLE
+	at java.management@21.0.10/sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at java.management@21.0.10/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:518)
+	at java.management@21.0.10/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:506)
+	at knot//net.minecraft.class_3178.method_61256(class_3178.java:75)
+	at knot//net.minecraft.class_3178.run(class_3178.java:47)
+	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+	at java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+
+
+"Netty Epoll Server IO #1" daemon prio=5 Id=39 RUNNABLE (in native)
+	at knot//io.netty.channel.epoll.Native.epollWait(Native Method)
+	at knot//io.netty.channel.epoll.Native.epollWait(Native.java:220)
+	at knot//io.netty.channel.epoll.Native.epollWait(Native.java:213)
+	at knot//io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:308)
+	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:365)
+	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998)
+	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+	...
+
+
+"Netty Epoll Server IO #2" daemon prio=5 Id=40 RUNNABLE (in native)
+	at knot//io.netty.channel.epoll.Native.epollWait(Native Method)
+	at knot//io.netty.channel.epoll.Native.epollWait(Native.java:220)
+	at knot//io.netty.channel.epoll.Native.epollWait(Native.java:213)
+	at knot//io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:308)
+	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:365)
+	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998)
+	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+	...
+
+
+"Worker-Main-2" daemon prio=5 Id=48 TIMED_WAITING on java.util.concurrent.ForkJoinPool@770b22f5
+	at java.base@21.0.10/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@770b22f5
+	at java.base@21.0.10/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:449)
+	at java.base@21.0.10/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1891)
+	at java.base@21.0.10/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1809)
+	at java.base@21.0.10/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+
+
+"Netty Epoll Server IO #3" daemon prio=5 Id=50 RUNNABLE (in native)
+	at knot//io.netty.channel.epoll.Native.epollWait(Native Method)
+	at knot//io.netty.channel.epoll.Native.epollWait(Native.java:220)
+	at knot//io.netty.channel.epoll.Native.epollWait(Native.java:213)
+	at knot//io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:308)
+	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:365)
+	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998)
+	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+	...
+
+
+
+Stacktrace:
+	at knot//net.minecraft.class_3178.method_61256(class_3178.java:90)
+	at knot//net.minecraft.class_3178.run(class_3178.java:47)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+-- Performance stats --
+Details:
+	Random tick rate: 3
+	Level stats: minecraft:overworld: players: 0, entities: 429,383,247,1117,1002,0,115 [minecraft:item:48,minecraft:skeleton:38,minecraft:creeper:34,minecraft:zombie:33,minecraft:bat:26], block_entities: 210 [minecraft:mob_spawner:84,minecraft:vault:50,minecraft:trial_spawner:40,minecraft:hopper:29,minecraft:beehive:5], block_ticks: 12446, fluid_ticks: 382, chunk_source: Chunks[S] W: 4189 E: 371,350,212,936,885,0,51,
+minecraft:the_nether: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+minecraft:the_end: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.10
+	Minecraft Version ID: 1.21.10
+	Operating System: Linux (amd64) version 6.8.0-1044-azure
+	Java Version: 21.0.10, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1053230608 bytes (1004 MiB) / 2166358016 bytes (2066 MiB) up to 4294967296 bytes (4096 MiB)
+	CPUs: 2
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 1
+	Number of logical CPUs: 2
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MiB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MiB): 3972.28
+	Virtual memory used (MiB): 7044.06
+	Swap memory total (MiB): 0.00
+	Swap memory used (MiB): 0.00
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 39894.80, total: 45046.83
+	Space in storage for workdir (MiB): available: 18971.52, total: 32077.81
+	JVM Flags: 2 total; -Xms2G -Xmx4G
+	Debug Flags: 0 total; 
+	Server Running: true
+	Player Count: 0 / 20; []
+	Active Data Packs: vanilla
+	Available Data Packs: minecart_improvements, redstone_experiments, trade_rebalance, vanilla
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	World Seed: -5683340385209452344
+	Suppressed Exceptions: ~~NONE~~
+	Is Modded: Definitely; Server brand changed to 'fabric'
+	Type: Dedicated Server (map_server.txt)
