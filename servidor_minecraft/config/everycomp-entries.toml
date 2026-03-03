@@ -1,0 +1,104 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.wood_type]
+
+		[types.wood_type.dungeonsdelight]
+			wormwood = true
+
+		[types.wood_type.ecologics]
+			flowering_azalea = true
+			azalea = true
+			coconut = true
+			walnut = true
+
+		[types.wood_type.biomesoplenty]
+			fir = true
+			pine = true
+			maple = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+			empyreal = true
+
+		[types.wood_type.minecraft]
+			pale_oak = true
+
+		[types.wood_type.born_in_chaos_v1]
+			scorched = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
+
+		[types.leaves_type.biomesoplenty]
+			null = true
+			origin = true
+			flowering_oak = true
+			cypress = true
+			snowblossom = true
+			rainbow_birch = true
+			fir = true
+			pine = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+			empyreal = true
+
+		[types.leaves_type.minecraft]
+			pale_oak = true
+
+#Disables specific entries
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.mcwwindows]
+			stripped_log_window2 = true
+			log_parapet = true
+			window2 = true
+			plank_window = true
+			louvered_shutter = true
+			stripped_log_four_window = true
+			four_window = true
+			plank_window2 = true
+			plank_parapet = true
+			blinds = true
+			window = true
+			pane_window = true
+			shutter = true
+			plank_pane_window = true
+			stripped_pane_window = true
+			plank_four_window = true
+			stripped_log_window = true
+
+		[entries.wood_type.another_furniture]
+			flower_box = true
+			shelf = true
+			shutter = true
+			bench = true
+			table = true
+			drawer = true
+			chair = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
